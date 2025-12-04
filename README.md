@@ -2,8 +2,8 @@
 # 🧮 Web-Based Scientific Calculator
 
 A responsive, feature-rich scientific calculator built with **HTML, CSS, and JavaScript** for educational and practical use.
-
-
+## Preview Link:
+https://shahyanahmedkiani.github.io/Caculator_web/
 
 ## ✨ Features
 
